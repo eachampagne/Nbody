@@ -1,0 +1,26 @@
+-Familiarize myself with python notebooks
+-Get my github thing to work
+
+Note: Jupyter notebook command is jupyter notebook
+Makefile is nmake
+
+1 month for working out code, then more time for optimization and graphics!
+
+Do the c myself
+
+Todo (specific):
+    Make a plummer generator
+    Make vectors for posx, posy, etc. s
+    Make uniform grid of particles in center of cells to avoid rounding problems
+        (and also test tree function)
+        Could also experiment with random distribution and plummer distribution functions 
+            Hold off on plummer sphere, involves fixing angular distribution and finding velocity 
+    Look up auto keyword and how to iterate over vectors nicely
+
+
+Some questions that have come up:
+    Security stuff (public, private, etc)
+    Is unsigned long int the correct type to use? Should I have a size var at all?
+    --> Might go into the particle set class
+    Will C++ let me do those nice array operations with the [:] things?
+    What is the permutation that numpy is doing anyway? a vector to change order
